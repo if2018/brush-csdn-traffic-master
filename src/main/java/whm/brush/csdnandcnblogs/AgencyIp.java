@@ -8,7 +8,10 @@ public class AgencyIp {
 
     private String port;
 
+    private String lk;
+
     public AgencyIp() {
+
     }
 
     public AgencyIp(String address, String port) {
